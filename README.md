@@ -1,6 +1,6 @@
 # Pagination Concept in API Documentation
 
-Welcome to the Pagination Concept in API Documentation project. The repository contains the final project for Vistula post-graduate studies on Technical Communication. At the same time the repository aims to provide a comprehensive understanding of pagination within the context of API documentation. 
+Welcome to the <em>Pagination Concept in API Documentation</em> project. The repository contains the final project for Vistula post-graduate studies on Technical Communication. At the same time the repository aims to provide a comprehensive understanding of pagination within the context of API documentation. 
 
 ## Who can benefit from the documentation?
 
@@ -14,7 +14,7 @@ API documentation is essential for developers and technical writers to understan
 
 - **Accessible Learning**: Created for junior technical writers, the project offers a beginner-friendly approach to learning about pagination in API documentation.
 
-- **Clear Explanation**: We provide straightforward explanations of pagination concepts, breaking down complex ideas into digestible chunks.
+- **Clear Explanation**: The documentation gives straightforward explanations of pagination concepts, breaking down complex ideas into smaller portions of knowledge.
   
 - **Practical Examples**: The documentation provides real-world examples that help understanding the API pagination concept better. 
 
